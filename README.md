@@ -4,11 +4,11 @@ A computer vision based presentation control system built using Python, OpenCV, 
 
 ## Features
 
-- Hand gesture recognition
+- Real-time hand tracking
+- Gesture recognition using MediaPipe
 - Swipe left/right for slide navigation
-- Virtual laser pointer using finger tracking
-- Real-time webcam processing
-- PowerPoint/Slides control
+- Webcam-based presentation control
+- PowerPoint/Google Slides navigation
 
 ## Technologies Used
 
@@ -24,7 +24,6 @@ A computer vision based presentation control system built using Python, OpenCV, 
 |---|---|
 | Swipe Left | Next Slide |
 | Swipe Right | Previous Slide |
-| Index Finger Up | Laser Pointer Mode |
 
 ## Installation
 
@@ -64,11 +63,11 @@ Add screenshots or demo video here.
 
 ## Future Improvements
 
-- Annotation mode
-- Gesture-based drawing
+- Gesture-based annotation
+- Laser pointer integration
 - AI gesture classification
 - Multi-hand support
-- Smooth cursor tracking
+- Improved swipe accuracy
 
 ## Author
 
